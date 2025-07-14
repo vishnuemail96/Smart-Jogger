@@ -16,8 +16,7 @@
 
 ## 🌐 Live Demo
 
-> [https://smart-jogger.vercel.app](https://smart-jogger.vercel.app)  
-*(replace with your actual Vercel URL)*
+>(https://smart-jogger.vercel.app/)  
 
 ---
 
